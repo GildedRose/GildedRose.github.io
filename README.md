@@ -1,9 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Portfolio
 
 # Description
 ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It was made as part of UT Austin Full Stack Web Development Bootcamp.
 
 ## Table of Contents
